@@ -9,4 +9,4 @@
 - **echarts基础**
 
 演示：
-![](https://github.com/Mingo-233/ECharts.git/raw/master/img/echart.gif)
+![](https://github.com/Mingo-233/ECharts.git/raw/master/img/echarts1.png)
