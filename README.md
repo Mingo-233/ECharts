@@ -9,8 +9,6 @@
 - **echarts基础**
 
 演示：
-<<<<<<< HEAD
+
 ![](./img/echarts1.png)
 
-=======
->>>>>>> f1ac59a83a8d648449c256693cd0ac6651dae300
